@@ -1,6 +1,8 @@
 # GreenLine
 
-![GreenLine](https://greenline.gavinwhite.net/images/cleanups.png)
+<p align="center">
+  <img src="https://greenline.gavinwhite.net/images/cleanups.png" alt="GreenLine Logo" width="150">
+</p>
 
 Connecting you to local leaders for a greener tomorrow. #smathhacks
 
