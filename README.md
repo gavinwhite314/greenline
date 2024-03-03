@@ -1,7 +1,7 @@
 # GreenLine
 
 <p align="center">
-  <img src="https://greenline.gavinwhite.net/images/cleanups.png" alt="GreenLine Logo" width="150">
+  <img src="https://greenline.gavinwhite.net/images/cleanups.png" alt="GreenLine Logo" width="100">
 </p>
 
 Connecting you to local leaders for a greener tomorrow. #smathhacks
